@@ -1,29 +1,25 @@
 # Welcome, first time with BTS?
 
+Kpop is music from South Korea that started around the 90's. Solo artists and bands make up the scene. They come in many genres of music, such as pop, rock, hip-hop, etc. The following of Kpop grew in the late 2000's, with groups becoming more popular. Examples are EXO, TVXQ, and SNSD. One of the biggest boy groups today is BTS.
 
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-2017 was BTS's year. They became the first K-pop group to win a Billboard Award in the U.S. and was the first boygroup to perform at the American Music Awards Show. If you haven't heard of them yet, it's about time that you do.
+### Markdown
 
-## Member Profiles
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-[explain how many members there are and BRIEFLY explain their dance/singing/rap abilities] IRENE
+```markdown
+Syntax highlighted code block
 
-  - Jin
-  
-  - Yoongi
-  
-  HObi
-  
-  RM
-  
-  Jimin
-  
-  Taheyung
-  
-  Kookie
-  
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
 - List
 
+1. Numbered
+2. List
 
 **Bold** and _Italic_ and `Code` text
 
