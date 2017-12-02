@@ -2,24 +2,28 @@
 
 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+2017 was BTS's year. They became the first K-pop group to win a Billboard Award in the U.S. and was the first boygroup to perform at the American Music Awards Show. If you haven't heard of them yet, it's about time that you do.
 
-### Markdown
+## Member Profiles
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[explain how many members there are and BRIEFLY explain their dance/singing/rap abilities] IRENE
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
+  - Jin
+  
+  - Yoongi
+  
+  HObi
+  
+  RM
+  
+  Jimin
+  
+  Taheyung
+  
+  Kookie
+  
 - List
 
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
