@@ -80,27 +80,19 @@ BTS has 7 members: 3 rappers and 4 vocalists. They each possess unique dance ski
 - Extension: Wings You Never Walk Alone (2017)
 - Love Yourself 承 Her (2017)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lilyandirene/BangtanBoys.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## South Korean Music Awards Show Wins
+- Melon Music Awards
+- Melon Popularity Awards
+- Mnet Asian Music Awards
+- Golden Disc Awards
+- Seoul Music Awards
+- Gaon Chart Music Awards
+- MBC Music Show Champion Awards
+- Korean Popular Culture & Arts Awards
+- Asian Artist Awards
+- Hateo Awards
+- Cable TV Broadcast Awards
+- Soribada Best K-Music Awards
+- Korean Broadcast Awards
+- Brand of Year Awards
+- Busan Oneasia Awards
