@@ -10,59 +10,59 @@ BTS has 7 members: 3 rappers and 4 vocalists. They each possess unique dance ski
 
   ### Kim Seokjin **(Jin)**
       
-      - Born on December 4, 1992, Gwacheon, South Korea
+- Born on December 4, 1992, Gwacheon, South Korea
       
-      - His positions are vocalist and visual of the group. 
+- His positions are vocalist and visual of the group. 
       
-      - Nickname is _Pink princess_
+- Nickname is _Pink princess_
       
   ### Min Yoongi **(Suga)**
   
-      - Born on March 9, 1993, Daegu, South Korea
+- Born on March 9, 1993, Daegu, South Korea
       
-      - His position is the lead rapper
+- His position is the lead rapper
       
-      - Nickname is _Min Suga_
+- Nickname is _Min Suga_
       
   ### Jung Hoseok **(J-Hope)**
   
-      - Born on February 18, 1994, Gwangju, South Korea
+- Born on February 18, 1994, Gwangju, South Korea
       
-      - His positions are lead rapper, main dancer, and vocalist
+- His positions are lead rapper, main dancer, and vocalist
       
-      - Nicknames are _Hobi_ and _Sunshine_ 
+- Nicknames are _Hobi_ and _Sunshine_ 
   
   ### Kim Namjoon **(RM)**
   
-      -Born on September 12, 1994, Ilsan, South Korea
+-Born on September 12, 1994, Ilsan, South Korea
       
-      - His positions are main rapper and leader
+- His positions are main rapper and leader
       
-      - Nickname is _God of Destruction_ because he's clumsy
+- Nickname is _God of Destruction_ because he's clumsy
   
   ### Park Jimin
   
-      -Born on October 13, 1995, Busan, South Korea
+-Born on October 13, 1995, Busan, South Korea
       
-      - His position is lead vocalist and main dancer
+- His position is lead vocalist and main dancer
       
-      - Nicknames are _Jiminie_, _Chim Chim_, _Chimmy_, and Mochi 
+- Nicknames are _Jiminie_, _Chim Chim_, _Chimmy_, and Mochi 
   
   ### Kim Taehyung **(V)**
   
-      - Born on December 30, 1995, Daegu, South Korea
+- Born on December 30, 1995, Daegu, South Korea
       
-      - His position is a vocalist
+- His position is a vocalist
       
-      - Nicknames are _Tae_, _Taetae_, and _Blank Tae_ 
+- Nicknames are _Tae_, _Taetae_, and _Blank Tae_ 
   
   ### Jeon Jungkook
   
-      - Born on September 1, 1997, Busan, South Korea
+- Born on September 1, 1997, Busan, South Korea
       
-      - His positions are main vocalist, lead dancer, sub rapper, and maknae (the youngest)
+- His positions are main vocalist, lead dancer, sub rapper, and maknae (the youngest)
       
-      - Nicknames are _Golden Maknae_, _Muscle pig_, and _Kookie_
+- Nicknames are _Golden Maknae_, _Muscle pig_, and _Kookie_
    
   
 Syntax highlighted code block
