@@ -65,7 +65,18 @@ BTS has 7 members: 3 rappers and 4 vocalists. They each possess unique dance ski
 - Nicknames are _Golden Maknae_, _Muscle pig_, and _Kookie_
    
   
-Syntax highlighted code block
+## Albums
+
+- 2 Cool 4 Skool (2013)
+- O!RUL8,2? (2013)
+- Skool Luv Affair (2014)
+- The Most Beautiful Moment in Life Pt. 1 (2015)
+- The Most Beautiful Moment in Life Pt. 2 (2015)
+- The Most Beautiful Moment in Life Young Forever (2016)
+
+1. Dark & Wild (2014)
+- 
+2. Wings (2016)
 
 # Header 1
 ## Header 2
