@@ -9,7 +9,7 @@ Kpop is music from South Korea that started around the 90's. Solo artists and ba
 BTS has 7 members: 3 rappers and 4 vocalists. They each possess unique dance skills, their music speaks about mental health and growing up, and they currently pave the way for more Kpop artists to gain visibility in the West.
 
 
- ### Kim Seokjin **(Jin)**
+  ### Kim Seokjin **(Jin)**
       
 - Born on December 4, 1992, Gwacheon, South Korea
       
