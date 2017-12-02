@@ -2,7 +2,7 @@
 
 Kpop is music from South Korea that started around the 90's. Solo artists and bands make up the scene. They come in many genres of music, such as pop, rock, hip-hop, etc. The following of Kpop grew in the late 2000's, with groups becoming more popular: examples including EXO, TVXQ, and SNSD. One of the biggest boy groups today is **BTS**.
 
-2017 is BTS's year. They became the first Kpop group to win the Top Social Artist Award at the Billboard Music Awards in the U.S. and was the first Korean boygroup to perform at the American Music Awards show. If you haven't heard of them yet, it's about time that you do.
+2017 is BTS's year. They became the first Kpop group to win the Top Social Artist Award at the Billboard Music Awards in the U.S. and was the first Korean boy group to perform at the American Music Awards show. If you haven't heard of them yet, it's about time that you do.
 
 ### Member Profiles
 
