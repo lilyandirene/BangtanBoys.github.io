@@ -1,14 +1,27 @@
-# Welcome, first time with BTS?
+# _Welcome, first time with BTS?_
 
-Kpop is music from South Korea that started around the 90's. Solo artists and bands make up the scene. They come in many genres of music, such as pop, rock, hip-hop, etc. The following of Kpop grew in the late 2000's, with groups becoming more popular. Examples are EXO, TVXQ, and SNSD. One of the biggest boy groups today is BTS.
+Kpop is music from South Korea that started around the 90's. Solo artists and bands make up the scene. They come in many genres of music, such as pop, rock, hip-hop, etc. The following of Kpop grew in the late 2000's, with groups becoming more popular: examples including EXO, TVXQ, and SNSD. One of the biggest boy groups today is **BTS**.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+2017 is BTS's year. They became the first Kpop group to win the Top Social Artist Award at the Billboard Music Awards in the U.S. and was the first Korean boygroup to perform at the American Music Awards show. If you haven't heard of them yet, it's about time that you do.
 
-### Markdown
+### Member Profiles
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+BTS has 7 members: 3 rappers and 4 vocalists. They each possess unique dance skills, their music speaks about mental health and growing up, and they currently pave the way for more Kpop artists to gain visibility in the West.
 
-```markdown
+  - Kim Seokjin
+  
+  - Min Yoongi
+  
+  - Jung Hoseok
+  
+  - Kim Namjoon
+  
+  - Park Jimin
+  
+  - Kim Taehyung
+  
+  - Jeon Jungkook
+  
 Syntax highlighted code block
 
 # Header 1
