@@ -68,18 +68,18 @@ BTS has 7 members: 3 rappers and 4 vocalists. They each possess unique dance ski
   
 ## Albums
 
-- 2 Cool 4 Skool (2013)
+- [2 Cool 4 Skool](https://github.com/lilyandirene/BangtanBoys.github.io/wiki/2-Cool-4-Skool-(2013))
 - O!RUL8,2? (2013)
 - Skool Luv Affair (2014)
 
-1. Dark & Wild (2014)
-- The Most Beautiful Moment in Life Pt. 1 (2015)
-- The Most Beautiful Moment in Life Pt. 2 (2015)
-- The Most Beautiful Moment in Life Young Forever (2016)
+1. [Dark & Wild](https://github.com/lilyandirene/BangtanBoys.github.io/wiki/Dark-&-Wild-(2014)) (2014)
+- [The Most Beautiful Moment in Life Pt. 1](https://github.com/lilyandirene/BangtanBoys.github.io/wiki/The-Most-Beautiful-Moment-in-Life-Pt.-1-(2015)) (2015)
+- [The Most Beautiful Moment in Life Pt. 2](https://github.com/lilyandirene/BangtanBoys.github.io/wiki/The-Most-Beautiful-Moment-In-Life-Pt.-2-(2015)) (2015)
+- [The Most Beautiful Moment in Life Young Forever](https://github.com/lilyandirene/BangtanBoys.github.io/wiki/The-Most-Beautiful-Moment-in-Life:-Young-Forever-(2016)) (2016)
 
-2. Wings (2016)
-- Extension: Wings You Never Walk Alone (2017)
-- Love Yourself 承 Her (2017)
+2. [Wings](https://github.com/lilyandirene/BangtanBoys.github.io/wiki/Wings-(2016)) (2016)
+- [Extension: You Never Walk Alone](https://github.com/lilyandirene/BangtanBoys.github.io/wiki/You-Never-Walk-Alone-(2017)) (2017)
+- [Love Yourself: Her](https://github.com/lilyandirene/BangtanBoys.github.io/wiki/Love-Yourself:-Her-(2017)) (2017)
 
 ## South Korean Music Awards Show Wins
 - Melon Music Awards
