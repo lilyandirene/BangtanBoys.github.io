@@ -80,7 +80,7 @@ BTS has 7 members: 3 rappers and 4 vocalists. They each possess unique dance ski
 - [Skool Luv Affair](https://github.com/lilyandirene/BangtanBoys.github.io/wiki/Skool-Luv-Affair-(2014)) (2014)
 
 ![](https://github.com/lilyandirene/BangtanBoys.github.io/blob/master/edgy.jpg)
-1. Dark & Wild (2014)
+1. [Dark & Wild](https://github.com/lilyandirene/BangtanBoys.github.io/wiki/Dark-&-Wild-(2014)) (2014)
 - [The Most Beautiful Moment in Life Pt. 1](https://github.com/lilyandirene/BangtanBoys.github.io/wiki/The-Most-Beautiful-Moment-in-Life-Pt.-1-(2015)) (2015)
 - [The Most Beautiful Moment in Life Pt. 2](https://github.com/lilyandirene/BangtanBoys.github.io/wiki/The-Most-Beautiful-Moment-In-Life-Pt.-2-(2015)) (2015)
 - [The Most Beautiful Moment in Life: Young Forever](https://github.com/lilyandirene/BangtanBoys.github.io/wiki/The-Most-Beautiful-Moment-in-Life:-Young-Forever-(2016)) (2016)
